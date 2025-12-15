@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/WagnerJon/manubot/tree/gh-pages) branch hosts the contents of this directory at <https://WagnerJon.github.io/manubot/>.
-The permalink for this webpage version is <https://WagnerJon.github.io/manubot/v/b961599dc736691312d421f1cd8ea69c0aa6d26e/>.
+The permalink for this webpage version is <https://WagnerJon.github.io/manubot/v/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://WagnerJon.github.io/manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b961599dc736691312d421f1cd8ea69c0aa6d26e`](https://github.com/WagnerJon/manubot/commit/b961599dc736691312d421f1cd8ea69c0aa6d26e).
+[`e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05`](https://github.com/WagnerJon/manubot/commit/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05).
