@@ -7,8 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2025-12-15'
 author-meta:
-- John Doe
-- Jane Roe
+- Jonas Wagner
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,21 +22,16 @@ header-includes: |
   <meta name="dc.date" content="2025-12-15" />
   <meta name="citation_publication_date" content="2025-12-15" />
   <meta property="article:published_time" content="2025-12-15" />
-  <meta name="dc.modified" content="2025-12-15T10:22:01+00:00" />
-  <meta property="article:modified_time" content="2025-12-15T10:22:01+00:00" />
+  <meta name="dc.modified" content="2025-12-15T10:28:05+00:00" />
+  <meta property="article:modified_time" content="2025-12-15T10:28:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author" content="Jonas Wagner" />
+  <meta name="citation_author_institution" content="Faculty of Biosciences, University of Heidelberg" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://WagnerJon.github.io/manubot/" />
   <meta property="og:url" content="https://WagnerJon.github.io/manubot/" />
@@ -45,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://WagnerJon.github.io/manubot/" />
   <meta name="citation_pdf_url" content="https://WagnerJon.github.io/manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://WagnerJon.github.io/manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://WagnerJon.github.io/manubot/v/b961599dc736691312d421f1cd8ea69c0aa6d26e/" />
-  <meta name="manubot_html_url_versioned" content="https://WagnerJon.github.io/manubot/v/b961599dc736691312d421f1cd8ea69c0aa6d26e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://WagnerJon.github.io/manubot/v/b961599dc736691312d421f1cd8ea69c0aa6d26e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://WagnerJon.github.io/manubot/v/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05/" />
+  <meta name="manubot_html_url_versioned" content="https://WagnerJon.github.io/manubot/v/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05/" />
+  <meta name="manubot_pdf_url_versioned" content="https://WagnerJon.github.io/manubot/v/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://WagnerJon.github.io/manubot/v/b961599dc736691312d421f1cd8ea69c0aa6d26e/))
+([permalink](https://WagnerJon.github.io/manubot/v/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05/))
 was automatically generated
-from [WagnerJon/manubot@b961599](https://github.com/WagnerJon/manubot/tree/b961599dc736691312d421f1cd8ea69c0aa6d26e)
+from [WagnerJon/manubot@e8e1dde](https://github.com/WagnerJon/manubot/tree/e8e1dde55a2cd2a14d50c099d10d1adb7afe6f05)
 on December 15, 2025.
 </em></small>
 
@@ -81,38 +75,22 @@ on December 15, 2025.
 
 
 
-+ **John Doe**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
-    <br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
++ **Jonas Wagner**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [WagnerJon](https://github.com/WagnerJon)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Faculty of Biosciences, University of Heidelberg
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/WagnerJon/manubot/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Jonas Wagner \<john.doe@something.com\>.
 
 
 :::
